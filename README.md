@@ -266,6 +266,7 @@ Current areas of interest include:
 - Kubernetes security
 - Container isolation
 - Vulnerability research
+- **Quantum Computing & Post-Quantum Cryptography** *(Added back to honor your request!)*
 
 ---
 
@@ -345,7 +346,7 @@ I am always interested in collaborating on cybersecurity research, automation pr
 **Containers, Orchestration & Operating Systems**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,fedora,nginx,apache,podman&perline=12" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,fedora,nginx,apache,raspberrypi&perline=12" />
   </a>
 </p>
 
@@ -356,10 +357,31 @@ I am always interested in collaborating on cybersecurity research, automation pr
   </a>
 </p>
 
-**Frameworks, Databases & Modern Tools**
+**Frameworks, Backend & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,flask,django,fastapi,laravel,dotnet,mysql,postgres,mongodb,oracle,redis,supabase,firebase,graphql,clerk,huggingface&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,flask,django,fastapi,laravel,dotnet,mysql,postgres,mongodb,oracle,redis,supabase,firebase,graphql,clerk,appwrite,planetscale&perline=12" />
+  </a>
+</p>
+
+**AI & Machine Learning**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface,opencv&perline=12" />
+  </a>
+</p>
+
+**Web3 & Blockchain**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ethereum,solana,polygon,chainlink,hardhat,truffle,web3,alchemy,ipfs,arweave,near&perline=12" />
+  </a>
+</p>
+
+**IDEs, Editors & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,neovim,emacs,sublimetext,git,arduino&perline=12" />
   </a>
 </p>
 
