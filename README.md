@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Usama Sarwar
 =====================================================================================================================================
 
-**Head of Security**
 
-I am a Cyber Security Engineer, Security Researcher, Automation Developer, and Technical Writer with a deep passion for building secure systems, solving complex security challenges, and creating practical cybersecurity solutions.
+
+I am a Cyber Security Engineer, Security Researcher, Automation Developer and Technical Writer with a deep passion for building secure systems, solving complex security challenges, and creating practical cybersecurity solutions.
 
 My work spans multiple domains, including Red Teaming, Blue Teaming, Digital Forensics, Malware Analysis, Cloud Security, DevSecOps, Security Automation, Threat Hunting, Infrastructure Security, and Capture The Flag (CTF) development.
 
