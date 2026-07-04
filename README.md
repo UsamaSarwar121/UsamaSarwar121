@@ -1,7 +1,6 @@
 👋 Hi there, I'm Usama Sarwar
 =============================
 
-**Head of Security**
 
 I am a Cyber Security Engineer, Security Researcher, Automation Developer, and Technical Writer with a deep passion for building secure systems, solving complex security challenges, and creating practical cybersecurity solutions.
 
